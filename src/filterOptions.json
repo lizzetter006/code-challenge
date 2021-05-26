@@ -1,0 +1,13 @@
+{
+  "Kategorien": [
+    "Alles",
+    "Burger",
+    "Pizza/Pasta",
+    "Asiatisch",
+    "Hausmannskost",
+    "Sonstiges"
+  ],
+  "Entfernung": ["Egal", "nicht so weit weg", "ganz nah dran"],
+  "Preis": ["Egal", "nicht zu viel", "Ende des Monats"],
+  "Veggietauglich": ["Egal", "sollte schon schmecken", "muss ganz lecker sein"]
+}
